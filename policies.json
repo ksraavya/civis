@@ -1,0 +1,789 @@
+{
+    "policies":[
+        {
+            "id": "pmay",
+            "name": {
+                "en": "Pradhan Mantri Awas Yojana",
+                "hi": "प्रधान मंत्री आवास योजना"
+            },
+            "type": {
+                "en": "Housing",
+                "hi": "आवास"
+            },
+            "level": "Central",
+            "tags": [
+                "housing",
+                "urban",
+                "rural",
+                "low-income"
+            ],
+            "shortDescription": {
+                "en": "Affordable housing scheme for urban and rural poor.",
+                "hi": "शहरी और ग्रामीण गरीबों के लिए किफायती आवास योजना।"
+            },
+            "fullDescription": {
+                "en": "Launched in 2015, the Pradhan Mantri Awas Yojana aims to provide affordable housing to the urban and rural poor by 2022. It offers financial assistance and subsidies to eligible beneficiaries to either buy, build or improve their homes.",
+                "hi": "2015 में शुरू की गई, प्रधानमंत्री आवास योजना का लक्ष्य 2022 तक शहरी और ग्रामीण गरीबों को किफायती आवास प्रदान करना है। यह पात्र लाभार्थियों को अपने घर खरीदने, बनाने या सुधारने के लिए वित्तीय सहायता और सब्सिडी प्रदान करती है।"
+            },
+            "timeline": {
+                "launched": "2015",
+                "milestones": [
+                    "2022: Target year for 'Housing for All'"
+                ],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "Indian citizen above 18 years",
+                    "No pucca house owned by applicant or immediate family",
+                    "Annual income below ₹3 lakh (EWS), ₹6 lakh (LIG), ₹12-18 lakh (MIG)"
+                ],
+                "hi": [
+                    "18 वर्ष से अधिक भारतीय नागरिक",
+                    "आवेदक या परिवार के पास पक्के मकान का मालिकाना हक नहीं होना चाहिए",
+                    "वार्षिक आय ₹3 लाख से नीचे (EWS), ₹6 लाख (LIG), ₹12-18 लाख (MIG)"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "🏠 ₹2.67 lakh interest subsidy for home loan",
+                    "🏗️ Up to ₹1.5 lakh for home construction/improvement"
+                ],
+                "hi": [
+                    "🏠 होम लोन पर ₹2.67 लाख ब्याज सब्सिडी",
+                    "🏗️ घर निर्माण/सुधार के लिए ₹1.5 लाख तक सहायता"
+                ]
+            },
+            "applicationProcess": {
+                "online": {
+                    "en": [
+                        "Visit the PMAY website",
+                        "Fill in Aadhaar details and personal information",
+                        "Choose applicable category and submit the form"
+                    ],
+                    "hi": [
+                        "PMAY वेबसाइट पर जाएं",
+                        "आधार और व्यक्तिगत जानकारी भरें",
+                        "लागू श्रेणी चुनें और फॉर्म जमा करें"
+                    ]
+                },
+                "offline": {
+                    "en": [
+                        "Visit nearest Common Service Centre (CSC) or municipal body",
+                        "Request PMAY application form",
+                        "Fill and submit with necessary documents"
+                    ],
+                    "hi": [
+                        "निकटतम कॉमन सर्विस सेंटर (CSC) या नगरपालिका कार्यालय जाएं",
+                        "PMAY आवेदन फॉर्म प्राप्त करें",
+                        "आवश्यक दस्तावेजों के साथ भरें और जमा करें"
+                    ]
+                }
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://pmaymis.gov.in/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Millions in India live without proper housing. PMAY empowers the urban and rural poor by offering dignified housing and financial support.",
+                "hi": "भारत में लाखों लोग बिना उचित आवास के रहते हैं। पीएमएवाई शहरी और ग्रामीण गरीबों को सम्मानजनक आवास और वित्तीय सहायता प्रदान करता है।"
+            }
+        },
+        {
+            "id": "pmkisan",
+            "name": {
+                "en": "Pradhan Mantri Kisan Samman Nidhi",
+                "hi": "प्रधान मंत्री किसान सम्मान निधि"
+            },
+            "type": {
+                "en": "Agriculture",
+                "hi": "कृषि"
+            },
+            "level": "Central",
+            "tags": [
+                "farmers",
+                "income support",
+                "rural"
+            ],
+            "shortDescription": {
+                "en": "Income support scheme for small and marginal farmers.",
+                "hi": "छोटे और सीमांत किसानों के लिए आय सहायता योजना।"
+            },
+            "fullDescription": {
+                "en": "Launched in 2019, PM-KISAN provides ₹6,000 per year in three equal installments to small and marginal farmers to help them meet agricultural and household expenses.",
+                "hi": "2019 में शुरू, पीएम-किसान छोटे और सीमांत किसानों को खेती और घरेलू खर्चों में मदद के लिए प्रति वर्ष ₹6,000 तीन समान किस्तों में प्रदान करता है।"
+            },
+            "timeline": {
+                "launched": "2019",
+                "milestones": [],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "Small and marginal farmer families with cultivable land up to 2 hectares",
+                    "Must be Indian citizen",
+                    "Exclusions apply to certain income tax payers, institutional landholders"
+                ],
+                "hi": [
+                    "2 हेक्टेयर तक की कृषि योग्य भूमि वाले छोटे और सीमांत किसान परिवार",
+                    "भारतीय नागरिक होना चाहिए",
+                    "कुछ आयकरदाताओं और संस्थागत भूमि धारकों को बाहर रखा गया है"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "💰 ₹6,000 yearly direct income support in 3 installments"
+                ],
+                "hi": [
+                    "💰 ₹6,000 वार्षिक सीधे आय सहायता 3 किस्तों में"
+                ]
+            },
+            "applicationProcess": {
+                "online": {
+                    "en": [
+                        "Register on PM-KISAN portal",
+                        "Submit Aadhaar and bank details",
+                        "Fill farmer details and land records"
+                    ],
+                    "hi": [
+                        "PM-किसान पोर्टल पर रजिस्टर करें",
+                        "आधार और बैंक विवरण जमा करें",
+                        "किसान विवरण और भूमि रिकॉर्ड भरें"
+                    ]
+                },
+                "offline": {
+                    "en": [
+                        "Visit local agriculture office",
+                        "Submit application form with land documents"
+                    ],
+                    "hi": [
+                        "स्थानीय कृषि कार्यालय जाएं",
+                        "भूमि दस्तावेजों के साथ आवेदन फॉर्म जमा करें"
+                    ]
+                }
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://pmkisan.gov.in/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Supports the backbone of the economy—farmers—helping stabilize income and boost agricultural productivity.",
+                "hi": "किसान जो अर्थव्यवस्था की रीढ़ हैं, उनकी आय स्थिर करने और कृषि उत्पादकता बढ़ाने में मदद करता है।"
+            }
+        },
+        {
+            "id": "ayushmanbharat",
+            "name": {
+                "en": "Ayushman Bharat - PM Jan Arogya Yojana",
+                "hi": "आयुष्मान भारत - पीएम जन आरोग्य योजना"
+            },
+            "type": {
+                "en": "Health",
+                "hi": "स्वास्थ्य"
+            },
+            "level": "Central",
+            "tags": [
+                "healthcare",
+                "insurance",
+                "low-income"
+            ],
+            "shortDescription": {
+                "en": "Health insurance scheme for economically vulnerable families.",
+                "hi": "आर्थिक रूप से कमजोर परिवारों के लिए स्वास्थ्य बीमा योजना।"
+            },
+            "fullDescription": {
+                "en": "Launched in 2018, Ayushman Bharat provides health insurance coverage up to ₹5 lakh per family per year for secondary and tertiary care hospitalization to over 10 crore vulnerable families.",
+                "hi": "2018 में शुरू, आयुष्मान भारत 10 करोड़ से अधिक कमजोर परिवारों को प्रति परिवार प्रति वर्ष ₹5 लाख तक स्वास्थ्य बीमा कवर प्रदान करता है।"
+            },
+            "timeline": {
+                "launched": "2018",
+                "milestones": [],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "Families listed in SECC database",
+                    "Low income and vulnerable groups",
+                    "No specific age limit"
+                ],
+                "hi": [
+                    "SECC डेटाबेस में सूचीबद्ध परिवार",
+                    "कम आय और कमजोर वर्ग",
+                    "कोई विशेष आयु सीमा नहीं"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "🏥 Cashless treatment at empanelled hospitals",
+                    "🩺 Covers 1,350 medical procedures"
+                ],
+                "hi": [
+                    "🏥 पैनल अस्पतालों में कैशलेस उपचार",
+                    "🩺 1,350 चिकित्सा प्रक्रियाओं को कवर करता है"
+                ]
+            },
+            "applicationProcess": {
+                "online": {
+                    "en": [
+                        "Visit official Ayushman Bharat website",
+                        "Check eligibility with SECC number",
+                        "Apply for Ayushman Card"
+                    ],
+                    "hi": [
+                        "आयुष्मान भारत की आधिकारिक वेबसाइट पर जाएं",
+                        "SECC नंबर से पात्रता जांचें",
+                        "आयुष्मान कार्ड के लिए आवेदन करें"
+                    ]
+                },
+                "offline": {
+                    "en": [
+                        "Visit nearest health centre or Common Service Centre",
+                        "Submit application with necessary documents"
+                    ],
+                    "hi": [
+                        "निकटतम स्वास्थ्य केंद्र या कॉमन सर्विस सेंटर जाएं",
+                        "आवश्यक दस्तावेजों के साथ आवेदन जमा करें"
+                    ]
+                }
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://www.pmjay.gov.in/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Health emergencies push millions into poverty; this scheme protects vulnerable families with free hospital care.",
+                "hi": "स्वास्थ्य आपातकालीन स्थिति में लाखों लोग गरीबी में गिर जाते हैं; यह योजना कमजोर परिवारों को मुफ्त अस्पताल देखभाल से बचाती है।"
+            }
+        },
+        {
+            "id": "ujjwalayojana",
+            "name": {
+                "en": "Pradhan Mantri Ujjwala Yojana",
+                "hi": "प्रधान मंत्री उज्ज्वला योजना"
+            },
+            "type": {
+                "en": "Energy",
+                "hi": "ऊर्जा"
+            },
+            "level": "Central",
+            "tags": [
+                "clean energy",
+                "LPG",
+                "women empowerment"
+            ],
+            "shortDescription": {
+                "en": "Free LPG connections for women below poverty line.",
+                "hi": "गरीबी रेखा से नीचे महिलाओं के लिए मुफ्त एलपीजी कनेक्शन।"
+            },
+            "fullDescription": {
+                "en": "Started in 2016, Ujjwala Yojana aims to provide 8 crore LPG connections to women from BPL households to reduce health hazards from indoor pollution caused by traditional cooking fuels.",
+                "hi": "2016 में शुरू, उज्ज्वला योजना का उद्देश्य पारंपरिक ईंधन के कारण होने वाले घर के अंदर प्रदूषण से स्वास्थ्य जोखिम को कम करने के लिए बीपीएल परिवारों की महिलाओं को 8 करोड़ एलपीजी कनेक्शन प्रदान करना है।"
+            },
+            "timeline": {
+                "launched": "2016",
+                "milestones": [
+                    "2021: 8 crore connections distributed"
+                ],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "Women from below poverty line (BPL) families",
+                    "Must be over 18 years old",
+                    "No existing LPG connection in the family"
+                ],
+                "hi": [
+                    "गरीबी रेखा से नीचे (BPL) परिवारों की महिलाएं",
+                    "उम्र 18 वर्ष से अधिक होनी चाहिए",
+                    "परिवार में कोई मौजूदा एलपीजी कनेक्शन नहीं होना चाहिए"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "🔥 Free LPG connection and stove",
+                    "💨 Reduced indoor air pollution"
+                ],
+                "hi": [
+                    "🔥 मुफ्त एलपीजी कनेक्शन और चूल्हा",
+                    "💨 घर के अंदर वायु प्रदूषण में कमी"
+                ]
+            },
+            "applicationProcess": {
+                "online": {
+                    "en": [
+                        "Apply through Ujjwala website or mobile app",
+                        "Fill Aadhaar and address details",
+                        "Upload documents and submit"
+                    ],
+                    "hi": [
+                        "उज्ज्वला वेबसाइट या मोबाइल ऐप से आवेदन करें",
+                        "आधार और पता विवरण भरें",
+                        "दस्तावेज अपलोड करें और जमा करें"
+                    ]
+                },
+                "offline": {
+                    "en": [
+                        "Visit nearest LPG distributor",
+                        "Submit application and documents"
+                    ],
+                    "hi": [
+                        "निकटतम एलपीजी वितरक जाएं",
+                        "आवेदन और दस्तावेज जमा करें"
+                    ]
+                }
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://www.pmujjwalayojana.com/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Promotes clean cooking fuel, reduces health risks, and empowers women economically.",
+                "hi": "स्वच्छ खाना पकाने वाले ईंधन को बढ़ावा देता है, स्वास्थ्य जोखिम कम करता है, और महिलाओं को आर्थिक रूप से सशक्त बनाता है।"
+            }
+        },
+        {
+            "id": "sabkasaath",
+            "name": {
+                "en": "Sabka Saath Sabka Vikas",
+                "hi": "सबका साथ सबका विकास"
+            },
+            "type": {
+                "en": "Governance",
+                "hi": "शासन"
+            },
+            "level": "Central",
+            "tags": [
+                "inclusive growth",
+                "governance",
+                "development"
+            ],
+            "shortDescription": {
+                "en": "Government's overarching vision for inclusive growth.",
+                "hi": "समावेशी विकास के लिए सरकार की व्यापक दृष्टि।"
+            },
+            "fullDescription": {
+                "en": "Sabka Saath Sabka Vikas is the Government of India's vision to ensure inclusive development for all citizens irrespective of caste, creed, or religion, focusing on welfare and infrastructure growth.",
+                "hi": "सबका साथ सबका विकास भारत सरकार की दृष्टि है जो जाति, धर्म, या मान्यताओं से ऊपर उठकर सभी नागरिकों के लिए समावेशी विकास सुनिश्चित करती है, जिसमें कल्याण और बुनियादी ढांचे का विकास शामिल है।"
+            },
+            "timeline": {
+                "launched": "2014",
+                "milestones": [],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "All Indian citizens benefit indirectly",
+                    "Focus on marginalized and underdeveloped areas"
+                ],
+                "hi": [
+                    "सभी भारतीय नागरिक अप्रत्यक्ष रूप से लाभान्वित होते हैं",
+                    "हाशिए पर और विकासशील क्षेत्रों पर ध्यान केंद्रित"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "📈 Improved infrastructure and services",
+                    "🤝 Empowerment of all communities"
+                ],
+                "hi": [
+                    "📈 बेहतर बुनियादी ढांचा और सेवाएं",
+                    "🤝 सभी समुदायों का सशक्तिकरण"
+                ]
+            },
+            "applicationProcess": {
+                "online": [],
+                "offline": []
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://www.pmindia.gov.in/en/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Drives the government's mission for balanced growth and welfare across all sectors and communities.",
+                "hi": "सभी क्षेत्रों और समुदायों में संतुलित विकास और कल्याण के लिए सरकार के मिशन को आगे बढ़ाता है।"
+            }
+        },
+        {
+            "id": "jan-dhan",
+            "name": {
+                "en": "Pradhan Mantri Jan Dhan Yojana",
+                "hi": "प्रधान मंत्री जन धन योजना"
+            },
+            "type": {
+                "en": "Finance",
+                "hi": "वित्त"
+            },
+            "level": "Central",
+            "tags": [
+                "banking",
+                "financial inclusion"
+            ],
+            "shortDescription": {
+                "en": "Financial inclusion scheme to provide bank accounts to all households.",
+                "hi": "सभी परिवारों को बैंक खाता उपलब्ध कराने की वित्तीय समावेशन योजना।"
+            },
+            "fullDescription": {
+                "en": "Launched in 2014, Jan Dhan Yojana aims to ensure access to banking and financial services like savings, credit, insurance, and pensions for all households.",
+                "hi": "2014 में शुरू, जन धन योजना का उद्देश्य सभी परिवारों को बचत, ऋण, बीमा, और पेंशन जैसी बैंकिंग और वित्तीय सेवाओं तक पहुंच सुनिश्चित करना है।"
+            },
+            "timeline": {
+                "launched": "2014",
+                "milestones": [
+                    "2015: 20 crore accounts opened"
+                ],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "Any Indian citizen without a bank account",
+                    "No minimum balance required"
+                ],
+                "hi": [
+                    "कोई भी भारतीय नागरिक जिसके पास बैंक खाता न हो",
+                    "कोई न्यूनतम शेष राशि आवश्यक नहीं"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "🏦 Zero balance bank account",
+                    "💳 Rupay debit card",
+                    "💰 Overdraft facility up to ₹10,000"
+                ],
+                "hi": [
+                    "🏦 शून्य शेष बैंक खाता",
+                    "💳 रुपे डेबिट कार्ड",
+                    "💰 ₹10,000 तक ओवरड्राफ्ट सुविधा"
+                ]
+            },
+            "applicationProcess": {
+                "online": {
+                    "en": [
+                        "Apply on official PMJDY website",
+                        "Fill Aadhaar and personal details",
+                        "Submit documents and open account"
+                    ],
+                    "hi": [
+                        "आधिकारिक पीएमजेडवाई वेबसाइट पर आवेदन करें",
+                        "आधार और व्यक्तिगत विवरण भरें",
+                        "दस्तावेज जमा करें और खाता खोलें"
+                    ]
+                },
+                "offline": {
+                    "en": [
+                        "Visit nearest bank branch",
+                        "Fill account opening form",
+                        "Submit documents and get passbook"
+                    ],
+                    "hi": [
+                        "निकटतम बैंक शाखा जाएं",
+                        "खाता खोलने का फॉर्म भरें",
+                        "दस्तावेज जमा करें और पासबुक प्राप्त करें"
+                    ]
+                }
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://pmjdy.gov.in/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Financial inclusion is key to economic empowerment and growth, especially for the underserved.",
+                "hi": "वित्तीय समावेशन आर्थिक सशक्तिकरण और विकास की कुंजी है, विशेषकर उन लोगों के लिए जो वंचित हैं।"
+            }
+        },
+        {
+            "id": "makeinindia",
+            "name": {
+                "en": "Make in India",
+                "hi": "मेक इन इंडिया"
+            },
+            "type": {
+                "en": "Industry",
+                "hi": "उद्योग"
+            },
+            "level": "Central",
+            "tags": [
+                "manufacturing",
+                "investment",
+                "jobs"
+            ],
+            "shortDescription": {
+                "en": "Initiative to encourage manufacturing and investment in India.",
+                "hi": "भारत में विनिर्माण और निवेश को प्रोत्साहित करने की पहल।"
+            },
+            "fullDescription": {
+                "en": "Launched in 2014, Make in India aims to transform India into a global manufacturing hub by encouraging domestic and foreign companies to manufacture their products within India.",
+                "hi": "2014 में शुरू, मेक इन इंडिया का उद्देश्य भारत को वैश्विक विनिर्माण केंद्र बनाना है, जो घरेलू और विदेशी कंपनियों को भारत में उत्पादन के लिए प्रोत्साहित करता है।"
+            },
+            "timeline": {
+                "launched": "2014",
+                "milestones": [],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "Businesses interested in manufacturing in India",
+                    "No direct public eligibility"
+                ],
+                "hi": [
+                    "भारत में विनिर्माण में रुचि रखने वाले व्यवसाय",
+                    "कोई प्रत्यक्ष सार्वजनिक पात्रता नहीं"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "🏭 Easier business regulations",
+                    "💼 Foreign investment facilitation"
+                ],
+                "hi": [
+                    "🏭 आसान व्यापार नियम",
+                    "💼 विदेशी निवेश सुविधा"
+                ]
+            },
+            "applicationProcess": {
+                "online": {
+                    "en": [
+                        "Visit Make in India portal",
+                        "Register business and apply for approvals"
+                    ],
+                    "hi": [
+                        "मेक इन इंडिया पोर्टल पर जाएं",
+                        "व्यवसाय पंजीकरण करें और अनुमोदन के लिए आवेदन करें"
+                    ]
+                },
+                "offline": {
+                    "en": [],
+                    "hi": []
+                }
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://www.makeinindia.com/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Boosts economic growth, creates jobs, and reduces dependence on imports.",
+                "hi": "आर्थिक विकास को बढ़ावा देता है, रोजगार सृजित करता है, और आयात पर निर्भरता कम करता है।"
+            }
+        },
+        {
+            "id": "swachhbharat",
+            "name": {
+                "en": "Swachh Bharat Mission",
+                "hi": "स्वच्छ भारत मिशन"
+            },
+            "type": {
+                "en": "Sanitation",
+                "hi": "स्वच्छता"
+            },
+            "level": "Central",
+            "tags": [
+                "cleanliness",
+                "sanitation",
+                "health"
+            ],
+            "shortDescription": {
+                "en": "Nationwide campaign to improve sanitation and cleanliness.",
+                "hi": "स्वच्छता और सैनिटेशन सुधार के लिए राष्ट्रीय अभियान।"
+            },
+            "fullDescription": {
+                "en": "Launched in 2014, the Swachh Bharat Mission aims to eliminate open defecation and improve solid waste management to enhance public health.",
+                "hi": "2014 में शुरू, स्वच्छ भारत मिशन का उद्देश्य खुले में शौच की समाप्ति और ठोस कचरा प्रबंधन में सुधार करके सार्वजनिक स्वास्थ्य को बढ़ाना है।"
+            },
+            "timeline": {
+                "launched": "2014",
+                "milestones": [
+                    "2019: Open Defecation Free status declared"
+                ],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "All citizens encouraged to participate",
+                    "Focus on rural and urban poor"
+                ],
+                "hi": [
+                    "सभी नागरिकों को भाग लेने के लिए प्रोत्साहित किया जाता है",
+                    "ग्रामीण और शहरी गरीबों पर ध्यान"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "🚽 Access to toilets",
+                    "🧹 Cleaner and healthier environment"
+                ],
+                "hi": [
+                    "🚽 शौचालयों तक पहुंच",
+                    "🧹 साफ-सुथरा और स्वस्थ पर्यावरण"
+                ]
+            },
+            "applicationProcess": {
+                "online": [],
+                "offline": []
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://swachhbharatmission.gov.in/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Improves sanitation, reduces disease, and promotes dignity and hygiene.",
+                "hi": "स्वच्छता सुधारता है, बीमारियों को कम करता है, और सम्मान और स्वच्छता को बढ़ावा देता है।"
+            }
+        },
+        {
+            "id": "digitalindia",
+            "name": {
+                "en": "Digital India",
+                "hi": "डिजिटल इंडिया"
+            },
+            "type": {
+                "en": "Technology",
+                "hi": "प्रौद्योगिकी"
+            },
+            "level": "Central",
+            "tags": [
+                "digital infrastructure",
+                "e-governance"
+            ],
+            "shortDescription": {
+                "en": "Campaign to transform India into a digitally empowered society and knowledge economy.",
+                "hi": "भारत को डिजिटल रूप से सशक्त समाज और ज्ञान अर्थव्यवस्था में बदलने का अभियान।"
+            },
+            "fullDescription": {
+                "en": "Launched in 2015, Digital India aims to improve online infrastructure, increase internet connectivity, and provide digital services to citizens.",
+                "hi": "2015 में शुरू, डिजिटल इंडिया का उद्देश्य ऑनलाइन इंफ्रास्ट्रक्चर में सुधार करना, इंटरनेट कनेक्टिविटी बढ़ाना, और नागरिकों को डिजिटल सेवाएं प्रदान करना है।"
+            },
+            "timeline": {
+                "launched": "2015",
+                "milestones": [],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "All citizens benefit",
+                    "Focus on bridging digital divide"
+                ],
+                "hi": [
+                    "सभी नागरिक लाभान्वित होते हैं",
+                    "डिजिटल डिवाइड को कम करने पर ध्यान"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "💻 Increased access to digital services",
+                    "📱 Improved internet connectivity"
+                ],
+                "hi": [
+                    "💻 डिजिटल सेवाओं तक बढ़ी पहुंच",
+                    "📱 बेहतर इंटरनेट कनेक्टिविटी"
+                ]
+            },
+            "applicationProcess": {
+                "online": [],
+                "offline": []
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://digitalindia.gov.in/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Bridges the urban-rural gap and fosters a knowledge-based economy.",
+                "hi": "शहरी और ग्रामीण अंतर को कम करता है और ज्ञान आधारित अर्थव्यवस्था को बढ़ावा देता है।"
+            }
+        },
+        {
+            "id": "udyam-registration",
+            "name": {
+                "en": "Udyam Registration",
+                "hi": "उद्यम पंजीकरण"
+            },
+            "type": {
+                "en": "MSME",
+                "hi": "सूक्ष्म, लघु और मध्यम उद्यम"
+            },
+            "level": "Central",
+            "tags": [
+                "micro",
+                "small",
+                "medium",
+                "enterprise"
+            ],
+            "shortDescription": {
+                "en": "Registration process for MSMEs to avail government benefits.",
+                "hi": "सरकारी लाभ प्राप्त करने के लिए MSMEs का पंजीकरण।"
+            },
+            "fullDescription": {
+                "en": "Udyam Registration is an online process that facilitates MSMEs to register and access various government schemes, subsidies, and support for growth.",
+                "hi": "उद्यम पंजीकरण एक ऑनलाइन प्रक्रिया है जो MSMEs को पंजीकृत कर विभिन्न सरकारी योजनाओं, सब्सिडी और विकास सहायता तक पहुंच प्रदान करती है।"
+            },
+            "timeline": {
+                "launched": "2020",
+                "milestones": [],
+                "status": "Ongoing"
+            },
+            "eligibility": {
+                "en": [
+                    "Micro, Small and Medium Enterprises as per govt definition",
+                    "Valid PAN and Aadhaar"
+                ],
+                "hi": [
+                    "सरकार की परिभाषा के अनुसार सूक्ष्म, लघु और मध्यम उद्यम",
+                    "वैध पैन और आधार"
+                ]
+            },
+            "benefits": {
+                "en": [
+                    "📝 Access to subsidies and schemes",
+                    "📈 Easier loan approvals",
+                    "🏆 Increased market credibility"
+                ],
+                "hi": [
+                    "📝 सब्सिडी और योजनाओं तक पहुंच",
+                    "📈 आसान ऋण स्वीकृति",
+                    "🏆 बढ़ी बाजार विश्वसनीयता"
+                ]
+            },
+            "applicationProcess": {
+                "online": {
+                    "en": [
+                        "Visit Udyam Registration portal",
+                        "Fill required enterprise details",
+                        "Submit and get registration certificate"
+                    ],
+                    "hi": [
+                        "उद्यम पंजीकरण पोर्टल पर जाएं",
+                        "आवश्यक उद्यम विवरण भरें",
+                        "जमा करें और पंजीकरण प्रमाण पत्र प्राप्त करें"
+                    ]
+                },
+                "offline": []
+            },
+            "resources": [
+                {
+                    "type": "Official Website",
+                    "link": "https://udyamregistration.gov.in/"
+                }
+            ],
+            "whyItMatters": {
+                "en": "Helps MSMEs grow by providing access to government benefits and formalizing business operations.",
+                "hi": "सरकारी लाभ प्रदान कर MSMEs को बढ़ने में मदद करता है और व्यापार संचालन को औपचारिक बनाता है।"
+            }
+        }
+    ]
+}
