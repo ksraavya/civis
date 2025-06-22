@@ -1,12 +1,37 @@
-# React + Vite
+# Civis – Civic Tech Platform for Policy Awareness 🇮🇳
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Civis** is a web platform designed to make Indian government schemes, policies, and constitutional rights more accessible, searchable, and user-friendly — especially for students and first-time voters.  
+The goal is to promote civic literacy and empower citizens through tech.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features (Planned & In Progress)
 
-## Expanding the ESLint configuration
+- ✅ Clean, mobile-friendly UI built with **React.js** and **Tailwind CSS**
+- ✅ Dynamic search & filter for schemes using structured **JSON** data
+- 🧠 Interactive eligibility quiz to match users with relevant schemes *(upcoming)*
+- 📚 Sections on fundamental rights, duties, and policy education *(upcoming)*
+- 🌐 Language/localization support *(planned)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack
+
+- **Frontend:** React.js, JavaScript, Tailwind CSS  
+- **Data:** Structured JSON files  
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🔧 Current Status
+
+> 🧪 **In development** — homepage UI and filter system are being actively built.  
+> Updates will be pushed regularly as key sections are completed.
+
+---
+
+## 🤝 Contributing / Feedback
+
+Right now this is a solo student project, but feedback, ideas, and suggestions are welcome. Feel free to open an issue
+
+---
